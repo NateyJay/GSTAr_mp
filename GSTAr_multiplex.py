@@ -3,7 +3,6 @@
 
 import sys
 import os
-from tqdm import tqdm
 from subprocess import Popen, PIPE
 import queue
 # from threading import Thread, Lock
